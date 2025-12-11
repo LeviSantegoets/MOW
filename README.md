@@ -1,6 +1,6 @@
 # ManOWar — Windows Utility & Network Toolkit  
 **Version: 0.33**  
-Author: *Levi Santegoets, The Netherlands*
+Author: *Levi Santegoets, The Netherlands, email: contact.levisantegoets@gmail.com*
 
 ManOWar is an advanced Windows batch-based toolkit designed to centralize a wide range of system, network, diagnostic, and administrative utilities into a single interactive menu-driven interface.
 
@@ -105,3 +105,18 @@ You may also propose new modules or GUI expansions.
 
 ## 📜 **License**
 All rights reserved by the author unless otherwise stated.
+
+---
+
+## 📘 The Story Behind ManOWar
+
+ManOWar began as a simple idea by Levi Santegoets — a Windows and Linux enthusiast who got tired of fixing the same problems over and over. After helping friends, coworkers, and just about anyone who looked confused near a computer, he decided it was time to automate the tasks that people shouldn’t have to do manually.
+
+So Levi built a small set of tools. Then a bigger set. Then a menu system.  
+Piece by piece, it grew into the toolkit now known as **ManOWar** — a practical, no-nonsense collection of scripts meant to make Windows administration quicker, cleaner, and less frustrating for everyone.
+
+Levi didn’t make it for fame or attention. He made it because good tools save time, reduce stress, and keep people focused on what actually matters.  
+If ManOWar makes someone’s day even slightly easier, he considers that a win.
+
+*And if it breaks something… well, that’s why we have version numbers.* 😄
+
