@@ -11,7 +11,7 @@ The script is fully menu-driven and is intended to streamline repetitive adminis
 > To use all online features and remote API-based functionality, users **must whitelist at least the first two octets of their public IPv4 address**.  
 > Example:  
 > If your IP is `203.44.x.x`, whitelist  
-> **`203.44.*.*`**
+> **`203.44`**
 
 ---
 
